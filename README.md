@@ -1,5 +1,6 @@
 ## BookBot
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 Is a command-line application in Python that does static analysis on text files, in this case, Project Gutenberg's "Frankenstein," by Mary Wollstonecraft (Godwin) Shelley.
 #### Prints a report of ... 
 - The total number of words used
